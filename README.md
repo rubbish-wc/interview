@@ -1,5 +1,3 @@
-本文来自 😊 [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes)，最新版本请关注公众号 CyC2018 之后回复“下载”获取。
-<div align="center"><img width="180px" src="https://cyc-1256109796.cos.ap-guangzhou.myqcloud.com/%E5%85%AC%E4%BC%97%E5%8F%B7.jpg"></img></div>
 [TOC]
 # 第 1 章 网络
 
